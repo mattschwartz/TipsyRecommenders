@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/Users/mattschwartz/Desktop/TipsyRecommenders/.metadata/.plugins/org.eclipse.jdt.core
+1118357044.index
+3515733275.index
